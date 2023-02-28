@@ -10,7 +10,7 @@ const Event = (props) => {
             allowfullscreen
             title={props.name}
         />
-        <h5>{props.name}</h5>
+        <h4>{props.name}</h4>
     </div>
   )
 }

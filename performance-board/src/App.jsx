@@ -8,6 +8,15 @@ const App = () => {
     <div className="App">
       <img src={logo} width='200'/>
       <h1>AVGE Concert Recordings</h1>
+      <a href="https://www.youtube.com/@brownavge">
+        <button className="button">Youtube</button>
+      </a>
+      <a href="https://www.instagram.com/brownavge">
+        <button className="button">Instagram</button>
+      </a>
+      <a href="https://www.facebook.com/brownavge">
+        <button className="button">Facebook</button>
+      </a>
       <Board />
     </div>
   )
