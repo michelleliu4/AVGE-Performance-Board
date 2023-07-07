@@ -1,44 +1,12 @@
-# Web Development Project 1 - AVGE Performance Board
+# AVGE Performance Board
 
-Submitted by: Michelle Liu
-
-This web app: AVGE Performance Board is a web app board that shows concert recordings for Anime Video Game Ensemble (AVGE) and includes social links.
-
-Time spent: **3** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [X] **There is a unique theme for events or resources relevant to a specific community**
-- [X] **At least 10 unique resources or events are displayed in a responsive card format**
-
-The following **optional** features are implemented:
-
-- [X] Buttons or links to a related resources are on each card component
-- [X] The site is responsive for both desktop and mobile formats
-
-The following **additional** features are implemented:
-
-* [X] List anything else that you added to improve the site's functionality!
-- Youtube links for each video
+AVGE Performance Board is a web app board that shows concert recordings for Brown's Anime Video Game Ensemble club, or [AVGE](https://www.youtube.com/@brownavge).
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
 <img src='https://i.imgur.com/YXJyqrj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/)
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Encountered some trouble figuring out how to embed a Youtube video, but iframe works!
 
 ## License
 
